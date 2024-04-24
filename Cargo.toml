@@ -1,0 +1,10 @@
+[package]
+name = "optional_transpose"
+version = "0.1.0"
+description = "A small crate that adds `.transpose()` to `Option<Option<T>>`"
+authors = ["@rscarson"]
+license = "MIT"
+repository = "https://github.com/rscarson/optional_transpose"
+edition = "2021"
+
+[dependencies]
